@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 MERN Stack Developer with 1 year internship experience at Hyfic Infotech
+- 🎯 MERN Stack Developer with 6 Months internship experience at Hyfic Infotech
 - 🛍️ Built production-ready E-Commerce & Multi-Role Platforms (Rudraa Fab, Greenify)
 - 🔐 Experienced with JWT & Firebase Auth, role-based access & REST APIs
 - 💳 Integrated Razorpay & Stripe payment gateways
