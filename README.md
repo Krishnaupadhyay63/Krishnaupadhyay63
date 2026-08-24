@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 MERN Stack Developer with 6 Months internship experience
+- 🎯 MERN Stack Developer with 1 Year experience
 - 🛍️ Built production-ready E-Commerce & Multi-Role Platforms (Rudraa Fab, Greenify)
 - 🔐 Experienced with JWT & Firebase Auth, role-based access & REST APIs
 - 💳 Integrated Razorpay & Stripe payment gateways
